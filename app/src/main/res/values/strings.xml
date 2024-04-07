@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="anime__luffy_description">Mugiwara</string>
+    <string name="anime__zoro_description">Roronoa</string>
+    <string name="anime_sanji_description">Kuro Ashi no Sanji</string>
+    <string name="anime__ussop_description">God Ussop</string>
+
+    <string name="anime__luffy_title">Monkey D Luffy\n</string>
+    <string name="anime__zoro_title">Roronoa Zoro\n</string>
+    <string name="anime__sanji_title">Sanji\n</string>
+    <string name="anime__ussop_title">Ussop\n</string>
+
+    <string name="enemy__luffy">"VS ST.Jaygarcia Saturn, ST.Topman Warcury, ST.Shepherd Jupeter\n"</string>
+    <string name="enemy__zoro">"VS Lucci\n"</string>
+    <string name="escape__sanji">"Escape with Vegapunk(Stella)\n" "</string>
+    <string name="escape__ussop">"Escape with lilith and brook \n"</string>
+
+
+    <string name="Chapter">Chapter(1111)</string>
+    // Buttons
+    <string name="next_button">Berikutnya</string>
+    <string name='previous_button'>Sebelumnya</string>
+</resources>
